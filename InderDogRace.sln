@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InderDogRace", "InderDogRace\InderDogRace.csproj", "{9B8D2B15-F9A2-49DB-B19E-EA836863E628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InderDogRaceTests", "InderDogRaceTests\InderDogRaceTests.csproj", "{A5200289-48F1-4436-9012-ABF5E53DD5D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B8D2B15-F9A2-49DB-B19E-EA836863E628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8D2B15-F9A2-49DB-B19E-EA836863E628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8D2B15-F9A2-49DB-B19E-EA836863E628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8D2B15-F9A2-49DB-B19E-EA836863E628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5200289-48F1-4436-9012-ABF5E53DD5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5200289-48F1-4436-9012-ABF5E53DD5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5200289-48F1-4436-9012-ABF5E53DD5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5200289-48F1-4436-9012-ABF5E53DD5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3834F549-61B5-4382-9DA9-B545B9CBF82A}
+	EndGlobalSection
+EndGlobal
